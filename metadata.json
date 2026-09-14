@@ -1,0 +1,6 @@
+{
+  "name": "Hand-Sketched AI Notebook",
+  "description": "An AI brainstorming sketchbook featuring pencil-style drawings, rough sketch borders, notebook paper textures, and interactive wireframe elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
